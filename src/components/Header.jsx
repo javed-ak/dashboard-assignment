@@ -18,7 +18,7 @@ export default function Header() {
                             alt="Profile"
                             className="w-8 h-8 rounded-full"
                         />
-                        <span className="font-medium">Admira John</span>
+                        <span className="font-medium">John Duo</span>
                         <ChevronDown size={16} />
                     </div>
                 </div>
